@@ -1,0 +1,39 @@
+{
+  "name": "phone-directory-app-front-end",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "prestart": "npm install",
+    "pretest": "npm install",
+    "start": "node app.js",
+    "watch": "nodemon app.js",
+    "test": "cross-env NODE_ENV=test ./node_modules/.bin/mocha test --exit"
+  },
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "chai-http": "^3.0.0",
+    "gulp": "^3.9.1",
+    "jquery": "^3.2.1",
+    "mocha-jsdom": "^1.1.0",
+    "mocha-multi": "^0.11.0",
+    "webdriverio": "^4.8.0"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "bluebird": "^3.5.1",
+    "body-parser": "~1.17.1",
+    "chai-as-promised": "^7.1.1",
+    "chai-dom": "^1.8.1",
+    "chromedriver": "^78.0.0",
+    "cross-env": "^7.0.2",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "mocha": "^3.5.0",
+    "mocha-junit-reporter": "^1.13.0",
+    "mocha-multi-reporters": "^1.1.4",
+    "morgan": "^1.8.2",
+    "nodemon": "^2.0.4",
+    "selenium-webdriver": "^3.6.0",
+    "serve-favicon": "^2.4.3"
+  }
+}

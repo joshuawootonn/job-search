@@ -1,0 +1,13 @@
+It's really refreshing to see that Upside prides itself so much on having a great culture. One thing that is essential to me about the
+culture of where I work is honesty. I respect the fact that the 'Cons' section was not removed employee's reviews and that you emphasized constructive criticism in your ad.
+
+Why would you hire me?
+
+> You are a Node.JS enthusiast
+once, after a technical interview, the interviewer said that my Javascript skills were "Godlike." This really only means something to me because he had a Node.js tattoo on his neck.
+While Node.js !== Javascript I think that my experience with Hapi.js, Express.js, and Loopback.js to name a few will be a great asset.
+
+> You know the difference between unit and integration tests
+not only that, but I also know the difference between a snapshot test and a unit test and when unit tests are a waste of time/ that you really just want to spot change and make a logical decision
+
+I could go on, but I'll save that for the first interview. I am really looking forward to learning more about Upside

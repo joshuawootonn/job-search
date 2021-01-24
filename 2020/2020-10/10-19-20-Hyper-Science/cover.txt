@@ -1,0 +1,20 @@
+I love the bright colors and use of Gotham on HyperSceince.com. I just created a product that uses Gotham, and my portfolio's design system has lots of shapes, fun colors, and a geometic font. 
+
+Tools are near and dear to me, and I love Hyper Science's vision of changing tools to make a more simple future. 
+
+These two thoughts combine under a belief of mine that Product === Team. The opportunity to create tools with like minded people is exciting!
+
+
+
+
+> Expert level with JavaScript
+
+Once, after a technical interview, the interviewer said that my Javascript skills were "Godlike."
+
+> Passion for quality and attention to consistency. You write tests for your code.
+
+I have been working in the medical field for the last 3 years. With the abundance of regulation, I have acquired and affinity for Cypress, Jest, and Storybook to maintain technical consitency through system and integration tests, while maintaing visual consistency with image and json snapshot testing 
+ 
+
+I could go on, but I'll save that for the first interview. I am really looking forward to learning more about Hyper Science
+

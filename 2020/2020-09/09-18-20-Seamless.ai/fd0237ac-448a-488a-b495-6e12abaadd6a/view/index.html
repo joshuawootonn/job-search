@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="./css/style.css"  rel="stylesheet" type="text/css"/>
+  </head>
+  <body>
+    <div class="margin20 textCenter fs20">Phone Directory</div>
+    <div class="textCenter">
+      <div class="textCenter inputContent">
+        <div class="txtLeft marginTB40 fb">
+          <div class="txtLeft">
+          <input type="text" id="name" value="" placeholder="Contact Name"/>
+          <input type="number" maxlength="10" id="mobile" value="" placeholder="Mobile Number"/>
+          <input type="email" id="email" value="" placeholder="Email"/>
+          <input type="submit" class="btn" id="submit" value="Add Contact"/>
+          <div id="error" class="dn error padT10 textCenter">Invalid Input!</div>
+          </div>
+        </div>
+      </div>
+      <div class="marginT40">
+        <span>Search contact by Mobile No:</span>
+        <input type="text" id="search" value=""/>
+      </div>
+      <div class="marginT40 padL10 tab cursorPtr" id="contactsSummary">Contacts Summary</div>
+      <div id="contactSummary" class="contactSummary">
+        <table id="summaryTable">
+          <thead>
+            <tr>
+              <th id="nameColumn">Name</th>
+              <th>Mobile</th> 
+              <th>Email</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Admin</td>
+              <td>9999999999</td> 
+              <td>admin@xyzcompany.com</td>
+            </tr>
+          </tbody>
+        </table>
+        <div id="noResult" class="noResult dn">No Results Found</div>
+      </div>
+    </div>
+  <script>
+    window.contactsList = [{
+      name: 'Admin',
+      mobile: '9999999999',
+      email: 'admin@xyzcompany.com'
+    }];
+  </script>
+  <script src="./js/script.js" type="text/javascript"></script>
+</html>

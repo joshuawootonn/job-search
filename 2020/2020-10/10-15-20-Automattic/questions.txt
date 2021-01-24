@@ -1,0 +1,49 @@
+Cover:
+
+- Create tools that make the web easier for common people to change
+- Foster creativity and thinking for yourself
+- Tools are near and dear to my heart
+
+I want to work here because
+
+- I have the chops to get things done and the outlook to back it up
+
+Hi there!
+I rescinded acceptance of an offer over some weird clauses in the equipment agreement this past Tuesday. Why? Because tools are where it all starts and I believe we shouldn't compromise over them. Automattic seems like a sweet role where I can work on tools that enable people!
+Why would you hire me?
+Because I crave autonomy, do creative work, and have a background of disrupting the norm with something solves the root issue. Ow yeah, and in a recent interview my Javascript skills were deemed "Godlike."
+I would love to chat more and make my case for why we should work together!
+
+Where did you hear about this position?
+A friend's recommendation
+
+What technologies do you feel most excited about leveraging in your next role?
+
+I have recently been focusing on animation in CSS and in JS. I would love to find a role where I can flex this muscle more.
+I have also been learning After Effects, and Lottie is something that gets me excited. I love using motion and playful design to make things that brighten people's day a more creatively convey the message.
+
+Please describe your experience with JavaScript.
+
+First tried JS in college as I went through the Odin Project (an OS bootcamp). I love the freedom (dynamic typing) and the ability to do things without first coming up with formal domain models. Today, I would say JS is my home court. Some of my favorite features are array manipulation and structural typing in TS.
+
+Please describe your experience with PHP.
+
+My experience with PHP has been through r/programminghumor. That's really unfortunate because I have a feeling it gets a bad rap for the same reason JS does and that the freedom it provides is just an easy gag for critics.
+
+What is your experience working with legacy code?
+
+In my most recent role, I inherited a legacy Win-Forms app. They had a lot of UX concerns and wanted product analytics. Since Win-Forms couples your view and data so closely I had two options. Rewrite it in Win-Forms or come up with something else. I created a React Mock with many of the existing features that addressed the UX concerns. That product idea has gained steam to become our flagship. The initial release was this past May, and the product analytics were added soon after.
+
+Tell us about a complex bug you’ve encountered. What were the symptoms, how did you troubleshoot it, and what was the solution?
+
+Please ignore the DevOps red flags here. One person can only have so much impact :)
+
+Recently, I setup screenshot testing with Cypress. It worked on my machine, but not on the PR build machine. I didn't have access to said machine, so I reached out to the owner, and we checked the mp4 artifacts from the failed tests. Nothing looked wrong per-say, but I did notice a difference in the resolution at which the tests were running. The screenshots were supposed to be 1280x800, but the build machine was running on something smaller. After reading through some Github issues I found, Cypress.viewport() sets the resolution of the test to the max of what you called it with and the native resolution. After adjusting the screenshot size all tests were green.
+
+Tell us about an experience or project at work that didn’t go so well. How did you handle it and how would you handle it in the future?
+
+I have been working on emerging AI-driven medical software. Last fall I was working on a project that would allow doctors to oversee the AI's work. The product was a top priority at our startup, because it prevented us from entering the market, but also a vague problem to solve. As an engineering team, we pushed forward, and about the time we were ready to release our purposed solution, regulations changed which removed the necessity to have doctor oversight for all exams.
+
+I handled it by checking out. I had spent a fair number of nights on the project, and it was really hard to give myself to something just to see it scrapped.
+
+I have reflected a lot on this recently. I think that those nights were not lost. I learned a lot, grew close to my team, and strengthened the team’s muscle to deliver quickly. There is a risk to putting yourself out there, but even if it doesn't work out I think that life is too short to be apathetic.

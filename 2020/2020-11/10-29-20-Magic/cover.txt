@@ -1,0 +1,3 @@
+Hi Arthur,
+
+My name is Josh and I would love to work for Magic. The mission of making auth simpler and the idea of an alternative to 2-factor authentication are both compelling.

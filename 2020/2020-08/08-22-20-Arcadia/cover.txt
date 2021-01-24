@@ -1,0 +1,20 @@
+My favorite part of Arcadia's culture is that you value collaboration and have a high density of frontend engineers. 
+It's not surprising that your website was far from a disappointment. Trust me, many of them are as I am looking through job ads.
+I like to make things look pretty and I love to learn from others and share my perspective. That's why I am applying to Arcadia!
+ 
+Why should you choose me?
+
+> Strong knowledge of JavaScript, HTML, and CSS, and some exposure to React
+This is the bread and butter of what I have worked with the past 4 years. 
+Once, after a technical interview, the interviewer said that my Javascript skills were "Godlike"
+
+> Storybook and Jest
+Yes, been loving storybook recently. Two month ago I setup snap shot testing, both image and markup, 
+and it has already paid off in multiple PRs that would have broken our design language
+
+I would say that I have a story or experience with all but two of the technologies in nice-to-haves (GraphQL and A/B testing),
+but I am eager to learn!
+
+Looking forward to my first interview with Arcadia!
+
+PS I said 'No' to being willing to relocate. I have a feeling I would like Washington D.C. I just can't lock it in as I haven't visited in over a decade.

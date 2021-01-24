@@ -1,0 +1,11 @@
+I like to say that the reason I became a frontend engineer is because I love making things look pretty. Seeing that Blameless is on a mission to focus on the end user and cause delight are why I am applying!
+
+Why would you hire me? 
+
+> You’re very comfortable using Typescript with React/Redux
+in my previous three roles these technologies have been central
+
+> You have a critical eye and mind for user experience and product thinking
+yes, at my current position I am the interim UX designer and I moonlight Web Design/Development. you can see my work at the portfolio provided
+
+I could go on, but I'll save that for the first interview. I am looking forward to learning more about Blameless

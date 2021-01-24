@@ -1,0 +1,136 @@
+input {
+  padding: 5px;
+  font-size: 12px;
+}
+li {
+  list-style: none;
+}
+.cursorPtr {
+  cursor: pointer;
+}
+.dn {
+  display: none;
+}
+.db {
+  display: block;
+}
+
+.error {
+  color: red;
+}
+
+.padB10 {
+  padding-bottom: 10px;
+}
+.marginT10 {
+  margin-top: 10px;
+}
+.marginB20 {
+  margin-bottom: 20px;
+}
+.btn {
+  padding: 5px;
+  border-radius: 5px;
+  background: white;
+}
+.btn:hover {
+  cursor: pointer;
+}
+button:active {
+  outline: none;
+  border: none;
+}
+
+.fs20 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.fb {
+  font-weight: bold;
+}
+input:focus {
+  outline: none !important;
+}
+.d-inbl {
+  display: inline-block;
+}
+.padL10  {
+  padding-left: 10px;
+}
+.marginT40 {
+  margin-top: 40px;
+}
+.textCenter {
+  text-align: center;
+}
+.margin20 {
+  margin: 20px;
+}
+.marginT10 {
+  margin-top: 10px;
+}
+.padT5 {
+  padding-top: 5px;
+}
+.padT10 {
+  padding-top: 5px;
+}
+.padL10 {
+  padding-left: 10px;
+}
+.marginT5 {
+  margin-top: 5px;
+}
+.marginTB40 {
+  margin: 40px 0;
+}
+.marginT30 {
+  margin-top: 30px;
+}
+.marginT20 {
+  margin-top: 20px;
+}
+.txtLeft {
+  text-align: left;
+}
+.padT10 {
+  padding-top: 10px;
+}
+.activeTab {
+  background: #4cb5f3;
+  border-radius: 10px;
+}
+.tab {
+  font-weight: bold;
+  padding: 5px 25px;
+}
+
+.inputContent {
+  background: lightblue;
+  border: 2px solid #025773;
+  padding: 0px 20px;
+  display: inline-block;
+  border-radius: 12px;
+}
+
+.noResult {
+  color: red;
+  padding-top: 10px;
+}
+
+.contactSummary {
+  width: 40%;
+  margin: auto;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 10px;
+  min-width: 150px;
+  text-align: left;    
+}
+tbody tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}

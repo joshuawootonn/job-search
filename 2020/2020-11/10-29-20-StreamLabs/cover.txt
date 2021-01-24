@@ -1,0 +1,3 @@
+My name is Josh and I would love to work at Streamlabs because our values align over empathy and ownership. I also love watching live streams, so knowing that I am making a remarkable tool for personalities I support is a plus.
+
+I think I am a strong candidate because I have brought two electron apps to production and I am a wizard at typescript.

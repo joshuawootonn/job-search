@@ -1,0 +1,16 @@
+I was really hesitant to apply to Cloudflare because of it's size. Here is what sold me:
+* Product Stategy team seems to be on a move fast, ask for forgiveness basis
+* I always say I got into Frontend because I like to make things look pretty. Based on the AD, this is something that is central to Cloudflare product vision.
+* Cloudflare seems to be involved in many community based projects
+
+Why would you hire me? 
+
+> Strong knowledge of HTML, CSS, and JavaScript
+once, after a technical interview, the interviewer said that my Javascript skills were "Godlike"
+
+> Experience building and shipping production React.js applications
+yes, in May I just released another one on a team where I was one of two Frontend engineers. 
+The app uses TS, implements Localization for the US and Japan, and has different themes based on your OS
+
+
+I could go on, but I'll save that for the first interview. I am really looking forward to learning more about the Product Strategy team at Cloudflare

@@ -1,0 +1,38 @@
+What does the team look like so far?
+11 people 6 engineers. 
+
+CTO, senior, Data, 3 junior engineers.
+
+What are you looking for in a frontend engineer?
+* Only role that is being hired
+* Clean technical debt
+* Best practices
+* Need some craftmanship
+* Need some delightfulness
+
+What are the core problems you are facing?
+* Lack of confidence in product markt fit
+
+What are some examples of what transparency looks like at Civic Eagle?
+* 
+
+What does Civic Eagle means when it says it puts people first?
+* People first: cross coaching or empathy
+* People first: be kind
+* Transparency: focusing on communication when suck or need help
+* T: Brown bags, month retro, announcements 
+* CEO: really T
+
+
+
+Not sure that animations are really something they will have time for at this time.
+
+
+
+
+
+Mostly just b2b. Also support lobbiest and non profit.
+
+Increasing democracy
+
+CTO didn't know what electron is

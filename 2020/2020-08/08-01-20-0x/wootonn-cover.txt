@@ -1,0 +1,12 @@
+While my career path hasn't taken me into the decentralized space yet, much of my college research was devoted to just that.
+It's really refreshing to see that 0x enthusiasm the future. That's something I want to be apart of.
+
+Why would you hire me?
+
+> Proficiency with React, Redux, ES6, and Typescript
+I have been using this stack professional and personally for 2 years now. This include TS meetups and the like. I am right at home in your stack
+
+> Experience designing and shipping user-facing features in a modern, component-based UI framework
+yes, at my current position I am the interim UX designer
+
+I could go on, but I'll save that for the first interview. I am looking forward to learning more about 0x

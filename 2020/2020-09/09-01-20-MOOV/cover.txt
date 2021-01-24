@@ -1,0 +1,17 @@
+I am sure you will find applicants with more OS or banking experience, what sets me apart is my creative
+energy and my desire to delight. I am applying to Moov, because (based on your website) I have a kindred spirit with whoever was involved.
+I want to join in changing the banking industry into something beautiful.
+
+Here are some other things about me:
+
+> Strong knowledge and experience with modern JavaScript
+once, after a technical interview, the interviewer said that my Javascript skills were "Godlike"
+
+> A desire to perform and grow as an engineer
+Yes! Here is what I have learned in the past year outside of work
+* WebGL and PostGIS (spatial databases) to make a collabrotive paint environment.
+* Figma and GatsbyJS to freelance design and web development for local businesses.
+* Web animations using css, react-spring, animejs, three.js, pixi.js, and canvas to get a lay of the land.
+
+Looking forward to learning more about Moov
+

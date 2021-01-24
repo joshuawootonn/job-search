@@ -1,0 +1,16 @@
+Hi there! 
+GIS popped onto the map for me last fall when I was reading through Designing Data-Intensive Applications. I had had an idea for a Microsoft Paint like canvas that users could interact with in real-time. To store the brush strings (linestrings) I wanted a database that would allow me to two-dimensionally search based on the user’s location relative to the canvas. I used PostGIS for the implementation, but ESRI came up when I discussed it with my boss.
+
+I am applying to ESRI because I have a passion for making remarkable tools, and I would love a chance to do that for a field I believe in.
+
+
+Why would you hire me? 
+> Knowledge of web visualization, user interface, and user experience development
+yes, at my current position I am the interim UX designer
+> Proficient with JavaScript
+once, after a technical interview, the interviewer said that my Javascript skills were "Godlike"
+
+I have some freelance work you can check out on my portfolio: joshuawootonn.com
+My stats are in the attached resume
+Thanks for your consideration,
+Josh

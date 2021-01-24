@@ -1,0 +1,40 @@
+Mostly just ingesting bills
+
+Looking to ingest more information about legistlative
+
+Team is flat and sparse
+
+Haydn is working on infra and data pipeline
+
+IC = Individual Contributor
+
+Haydn seems tired.
+
+Product needs more frontend than backend.
+
+Alex is primarily backend.
+
+Just moved to mono repo style.
+
+
+
+# Why Haydn joined?
+
+Crypto -> Governance -> We don't understand enough about bills
+
+Jesse (CDO) -> been around for a while -> found nina alex, ratly came from a bootcamp he was teaching about
+
+Haydn came from San Francisco -> got burnt out -> Civic Eagle is not like that
+
+Civic Eagle is borderline non profit, salary is based on location and lower end.
+
+
+
+# Where do you see Civic Eagle in two years?
+
+want to build collaboration into environment, want to unify advocacy groups
+
+this is the only open position
+
+the idea for hiring in the near future is we will hire more once series A is reached
+

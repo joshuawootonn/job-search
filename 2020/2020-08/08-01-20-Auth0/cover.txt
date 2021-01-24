@@ -1,0 +1,12 @@
+It's really refreshing to read about Auth0's culture, specifically it's emphasis on team development and open communication.
+My experience has backed up other parts of your core, like the fact that you give a shit. That is why I want to work for Auth0!
+
+Why would you hire me?
+
+> Enjoy building elegant user interface and best user experience
+yes, at my current position I am the interim UX designer
+
+> Have a deep understanding of JavaScript
+once, after a technical interview, the interviewer said that my Javascript skills were "Godlike"
+
+I could go on, but I'll save that for the first interview. I am looking forward to learning more about the Ecosystem team at Auth0
